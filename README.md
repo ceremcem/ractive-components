@@ -2,6 +2,7 @@
 
 These standalone components are converted from [ScadaJS components](https://github.com/aktos-io/scada.js/blob/master/components).
 
+# Components 
 ## `json-edit`
 
 * Description: Edit JSON objects on the go.
