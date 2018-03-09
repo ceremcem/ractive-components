@@ -1,6 +1,6 @@
 # Ractive Components 
 
-These standalone components are converted from [ScadaJS](https://github.com/aktos-io/scada.js)
+These standalone components are converted from [ScadaJS components](https://github.com/aktos-io/scada.js/blob/master/components).
 
 ## `json-edit`
 
